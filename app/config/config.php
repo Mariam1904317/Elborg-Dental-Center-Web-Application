@@ -9,7 +9,7 @@ define('DB_NAME', 'miublog');
 //echo dirname(dirname(__FILE__));
 define('APPROOT', dirname(dirname(__FILE__)));
 // URL Root
-define('URLROOT', 'https://elborgdentalclinic.herokuapp.com/public/');
+define('URLROOT', 'https://elborgdentalclinic.herokuapp.com');
 // Site Name
 define('SITENAME', 'El Borg Dental Clinc');
 
